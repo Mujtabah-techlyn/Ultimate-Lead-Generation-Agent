@@ -1,4 +1,4 @@
-🎯 AI Lead Generation Agent — Automated Lead Extractor
+# 🎯 AI Lead Generation Agent — Automated Lead Extractor
 🧠 Overview
 
 Meet your new AI-powered lead generation system, designed to extract unlimited, verified business leads from any niche and location — automatically.
